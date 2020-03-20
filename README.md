@@ -1,4 +1,4 @@
-# VisualGrafoStudio
+# Visual Grafo Studio
 Interface gráfica escrita em C# para aplicação dos mais conhecidos algoritmos de teoria dos grafos.
 
 ![SplashScreen](media/cap2.png)
